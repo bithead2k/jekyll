@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Kirk's World
 email: kirk@webfinish.com
-description: >- # this means to ignore newlines until "baseurl:"
-  world | kirk | tee blog <br/>
+description: # >- # this means to ignore newlines until "baseurl:"
+  world | kirk | tee blog
   Mostly stuff about PostgreSQL, keyboards, kinesis, ergodox, outdoor sports
 baseurl: "/jekyll" # the subpath of your site, e.g. /blog
 url: "https://bithead2k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
